@@ -1,0 +1,36 @@
+{
+  "name": "thivi-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Thivi — connect Claude, Cursor, Windsurf, and other AI tools to your workspace. Manage tasks, appointments, documents, notes, and scheduling via AI.",
+  "bin": { "thivi-mcp": "./index.mjs" },
+  "type": "module",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "thivi",
+    "ai",
+    "claude",
+    "cursor",
+    "windsurf",
+    "task-management",
+    "calendar",
+    "appointments",
+    "notes",
+    "documents",
+    "scheduling",
+    "workspace",
+    "productivity",
+    "project-management"
+  ],
+  "license": "MIT",
+  "author": "Thivi <contact@thivi.net> (https://thivi.net)",
+  "homepage": "https://thivi.net",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thivi-app/thivi-mcp"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "files": ["index.mjs", "README.md"]
+}
