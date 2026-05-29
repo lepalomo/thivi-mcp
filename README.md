@@ -1,5 +1,7 @@
 # thivi-mcp
 
+[![smithery badge](https://smithery.ai/badge/leandropalomo/thivi)](https://smithery.ai/servers/leandropalomo/thivi)
+
 MCP (Model Context Protocol) server for [Thivi](https://thivi.net) — connect AI tools like Claude Desktop, Cursor, Windsurf, and Cline to your Thivi workspace.
 
 ## What you can do
